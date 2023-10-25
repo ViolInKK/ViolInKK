@@ -11,10 +11,10 @@ ___
 <br/>
 
 ### 📚 Hobbies:
-**Reading books**: Mainly read fiction. Dostoevsky's creations are my favourite<br/>
-**Programming**: Started programming when I was 12yo. It became something Im passionate about<br />
-**Playing video games**: celeste, terraria and dishonored are my most favourite games <br/>
-**Speedtyping**: my pb is 140wpm</br>
+**Reading books**: mainly read fiction. Dostoevsky's creations are my favourite<br/>
+**Programming**: started programming when I was 12 y/o. It became something Im passionate about<br />
+**Playing video games**: celeste, terraria and dishonored are my favourite games <br/>
+**Speedtyping**: my personal best is 140 words per minute</br>
 <br/>
 
 ### 🗣️ Languages:
