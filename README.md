@@ -1,4 +1,4 @@
-![ezgif com-video-to-gif (1)](https://github.com/ViolInKK/ViolInKK/assets/102133609/47a3b758-190a-4afa-bb73-b944ddaa3788)
+<img src="https://github.com/ViolInKK/ViolInKK/assets/102133609/47a3b758-190a-4afa-bb73-b944ddaa3788" width="100%"/>
 ___
 
 ### 👨‍💼About Me:
