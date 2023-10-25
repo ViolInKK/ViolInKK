@@ -2,26 +2,25 @@
 
 ___
 
-<img align="right" src="https://github.com/ViolInKK/ViolInKK/assets/102133609/24ee4fad-26aa-40b5-88f5-8f3090f5caf0" width="50%"/>
+<img align="right" src="https://github.com/ViolInKK/ViolInKK/assets/102133609/c85e9708-837e-490f-b367-0b2312ece701" width="50%"/>
 
 ### 👨‍💼About Me:
 **Name**: Kirill <br/>
 **Pronounces**: He/His <br/>
 **Age**: 19yo
-<br>
-
-### 🗣️ Languages:
-**Russian**: native <br>
-**English**: B2 <br>
-**Finnish**: A2 <br>
-<br>
-
+<br/>
 
 ### 📚 Hobbies:
-<br>
+**Reading books**: <br/>
+**Programming**: <br />
+**Playing video games**: <br/>
+**Speedtyping**: </br>
+<br/>
 
-
-### 😅 Fun Facts:
+### 🗣️ Languages:
+**Russian**: native <br/>
+**English**: B2 <br/>
+**Finnish**: A2 <br/>
 <br>
 
 
