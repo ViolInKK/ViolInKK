@@ -30,14 +30,6 @@ ___
 <br>
 
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViolInKK&layout=compact&theme=dark)
-<br>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViolInKK&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br>
-
-
 ### 📱 Contact:
 <a href="https://t.me/violinkk" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40violinkk-28a8ea"></a>
 <a href="mailto:violinkk29@gmail.com"><img src="https://img.shields.io/badge/Email-violinkk29@gmail.com-orange"></a>
