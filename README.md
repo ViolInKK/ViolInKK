@@ -1,11 +1,21 @@
 ![ezgif com-video-to-gif (1)](https://github.com/ViolInKK/ViolInKK/assets/102133609/47a3b758-190a-4afa-bb73-b944ddaa3788)
 
 ## Hi there, Moi, Привет 👋
+languages:
+hobbies:
+fun fact
 
-I'm Kirill
+**Name**: Kirill <br>
+**Pronounces**: He/His <br>
+**Age**: 19yo
 
 I'm a self-taught passionate FrontEnd developer from Russia
-### 📱 Contact:
+
+### 🗣️ Languages:
+
+### 📚 Hobbies:
+
+### 😅 Fun Facts:
 
 
 ### :computer: Tech Stack:
@@ -14,3 +24,9 @@ I'm a self-taught passionate FrontEnd developer from Russia
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViolInKK&layout=compact&theme=dark)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViolInKK&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 📱 Contact:
+<br><br>
+<a href="https://t.me/violinkk" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40violinkk-28a8ea"></a>
+<a href="mailto:violinkk29@gmail.com"><img src="https://img.shields.io/badge/Email-violinkk29@gmail.com-orange"></a>
+<a href="https://violinkk.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-violinkk.dev-red"></a>
