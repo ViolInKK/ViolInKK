@@ -1,5 +1,9 @@
 ### Hi there, Moi, Привет 👋
 
+I'm Kirill
+
+I'm a Frontend React developer
+
 ## :globe_with_meridians: Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/violinkk) 
 
