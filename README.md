@@ -2,6 +2,7 @@
 
 ___
 
+<img align="right" src="https://github.com/ViolInKK/ViolInKK/assets/102133609/24ee4fad-26aa-40b5-88f5-8f3090f5caf0" width="50%"/>
 
 ### 👨‍💼About Me:
 **Name**: Kirill <br/>
