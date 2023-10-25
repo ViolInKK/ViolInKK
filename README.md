@@ -1,9 +1,11 @@
 <img src="https://github.com/ViolInKK/ViolInKK/assets/102133609/47a3b758-190a-4afa-bb73-b944ddaa3788" width="100%"/>
+
 ___
 
+
 ### 👨‍💼About Me:
-**Name**: Kirill <br>
-**Pronounces**: He/His <br>
+**Name**: Kirill <br/>
+**Pronounces**: He/His <br/>
 **Age**: 19yo
 <br>
 
