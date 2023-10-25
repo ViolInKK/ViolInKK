@@ -6,8 +6,6 @@
 **Pronounces**: He/His <br>
 **Age**: 19yo
 
-I'm a self-taught passionate FrontEnd developer from Russia
-
 ### 🗣️ Languages:
 
 ### 📚 Hobbies:
