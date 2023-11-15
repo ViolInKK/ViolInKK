@@ -30,7 +30,7 @@ ___
 <br>
 
 
-### 📱 Contact:
+### 📱 Contac:
 <a href="https://t.me/violinkk" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40violinkk-28a8ea"></a>
 <a href="mailto:violinkk29@gmail.com"><img src="https://img.shields.io/badge/Email-violinkk29@gmail.com-orange"></a>
 <a href="https://violinkk.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-violinkk.dev-red"></a>
