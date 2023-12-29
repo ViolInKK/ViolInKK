@@ -5,7 +5,7 @@ ___
 <img align="right" src="https://github.com/ViolInKK/ViolInKK/assets/102133609/c85e9708-837e-490f-b367-0b2312ece701" width="50%"/>
 
 ### 👨‍💼About Me:
-**Name**: Kiril <br/>
+**Name**: Kirill <br/>
 **Pronouns**: He/Him <br/>
 **Age**: 20 y/o
 <br/>
