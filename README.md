@@ -6,7 +6,6 @@ ___
 
 ### 👨‍💼About Me:
 **Name**: Kirill <br/>
-**Pronouns**: He/Him <br/>
 **Age**: 20 y/o
 <br/>
 
